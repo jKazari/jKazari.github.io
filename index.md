@@ -1,5 +1,5 @@
 ## About me
-Hi, I’m Zachary (or “Kazari” if you’d prefer)
+Hi, I’m Zachary (or “Kazari” if you’d prefer)  
 I’m a first year university student of Computer Science at Gdańsk University of Technology 
 with an interest in maths, computer science and Japansese language & culture.
 
