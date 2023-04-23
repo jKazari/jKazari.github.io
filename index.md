@@ -6,3 +6,6 @@ with an interest in maths, computer science and Japansese language & culture.
 ## What I'm good at
 - I have a strong passion for **learning** new things, **solving problems** and developing my interests
 - I love discovering and analizing rules, structures and patterns behind complex topics and ideas
+
+[Contact](contact.md)  
+[More about me](about.md)
