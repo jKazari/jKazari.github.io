@@ -16,7 +16,7 @@ and analyzing rules, structures and patterns
 behind complex topics and ideas.
 
 ## Contact
-**E-mail:** [jazdzewski.zachariasz@gmail.com](mailto:jazdzewski.zachariasz@gmail.com)
-**Github:** [jKazari](https://github.com/jKazari)
-**Facebook:** [Zachariasz Jażdżewski](https://www.facebook.com/zachariasz.jazdzewski)
-**Discord:** [Zachary#2806](https://discord.com/users/277427825416470530)
+**E-mail:** [jazdzewski.zachariasz@gmail.com](mailto:jazdzewski.zachariasz@gmail.com)  
+**Github:** [jKazari](https://github.com/jKazari)  
+**Facebook:** [Zachariasz Jażdżewski](https://www.facebook.com/zachariasz.jazdzewski)  
+**Discord:** [Zachary#2806](https://discord.com/users/277427825416470530)  
