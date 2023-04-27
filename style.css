@@ -74,8 +74,26 @@ header {
 	margin-right: 0.2vw;
 }
 
-/* Main content styling */
+/* Main page styling */
 .hero {
 	display: grid;
 	grid-template-columns: 3fr 3fr 3fr;
 }
+
+/* About page styling */
+footer {
+	display: grid;
+	grid-template-columns: 3fr 3fr 3fr;
+	height: 10vh;
+	margin-top: 5vh;
+}
+
+.footer-content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-top: 2px solid #313244;
+	color: #cba6f7;
+	text-shadow: 0px 0px 1px #cba6f7;
+}
+
