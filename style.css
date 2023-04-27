@@ -32,6 +32,11 @@ ul {
 	list-style: none;
 }
 
+li {
+	margin-top: 0.3rem;
+	margin-bottom: 0.3rem;
+}
+
 a {
 	color: #cba6f7;
 	text-decoration: none;
@@ -96,4 +101,3 @@ footer {
 	color: #cba6f7;
 	text-shadow: 0px 0px 1px #cba6f7;
 }
-
