@@ -1,0 +1,74 @@
+/* General styling */
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Cascadia Code', monospace;
+	background-color: #1e1e2e;
+	color: #cdd6f4;
+}
+
+h1 {
+	margin-top: 0.5vh;
+	margin-bottom: 0.5vh;
+	font-size: 2rem;
+	text-shadow: 0px 0px 2px #cdd6f4;
+}
+
+h3 {
+	margin-top: 3vh;
+	margin-bottom: 1vh;
+	font-size: 1.5rem;
+	text-shadow: 0px 0px 2px #cdd6f4;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	color: #cba6f7;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #cba6f7;
+	text-shadow: 0px 0px 2px #cba6f7;
+}
+
+/* Header styling */
+header {
+	display: grid;
+	grid-template-columns: 3fr 3fr 3fr;
+	height: 20vh;
+}
+
+.header-content {
+	display: flex;
+	align-items: center;
+}
+
+.site-icon {
+	height: 10vh;
+	width: 10vh;
+	border-radius: 35%;
+	box-shadow: 0px 0px 5px #ffffff;
+}
+
+.header-text {
+	display: flex;
+	flex-direction: column;
+	margin-left: 2vw;
+	text-align: center;
+}
+
+.navi-item {
+	display: inline;
+	margin-left: 0.2vw;
+	margin-right: 0.2vw;
+}
+
+/* Main content styling */
+.hero {
+	display: grid;
+	grid-template-columns: 3fr 3fr 3fr;
+}
