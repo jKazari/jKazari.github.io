@@ -1,7 +1,11 @@
+# Kazari's webpage
+[Home](main.md) [About](about.md)
+
 ## More about me
-If you’re reading this... here is a :) for u  
-It’s more of a casual page for me to write about myself  
-If you’d like to know something more about me, this is the place  
+If you’re reading this... here is a :) for u.
+It’s more of a casual page for me to write 
+about myself. If you’d like to know something 
+more about me, this is the place. 
 
 ## Stats
 **age:** 19yo  
@@ -47,3 +51,9 @@ If you’d like to know something more about me, this is the place
 - Japan
 - Neon Genesis Evangelion
 - History
+
+## Small encouragement
+If you like smilar stuff or just feel like we 
+would get along well, pls don’t hesitate to add 
+me on [Discord](https://discord.com/users/277427825416470530) 
+or [Facebook](https://www.facebook.com/zachariasz.jazdzewski)
